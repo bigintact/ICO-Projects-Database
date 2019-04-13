@@ -4,7 +4,7 @@
 
 
 
-A paper named "ICOWD: An ICO Database with Quality-Controlled Annotations" based on this database has been submitted to 2nd IEEE International Conference on Blockchain (Blockchain-2019)(http://www.blockchain-ieee.org). I(Jinfeng Tong) am responsible for the most part of the paper including defintions and annotations. Yiqun Duan is responsible for most part of the applications except LDA. 
+A paper named "ICOWD: An ICO Database with Quality-Controlled Annotations" based on this database has been submitted to 2nd IEEE International Conference on Blockchain (Blockchain-2019)(http://www.blockchain-ieee.org). Jinfeng Tong is responsible for the most part of the paper including defintions and annotations. Yiqun Duan is responsible for most part of the applications except LDA. 
 
 Jinfeng email: jinfeng.tong@alumni.ubc.ca
 Yiqun Duan email: yiqun.duan@alumni.ubc.ca
