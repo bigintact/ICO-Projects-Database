@@ -9,4 +9,4 @@ A paper named "ICOWD: An ICO Database with Quality-Controlled Annotations" based
 Jinfeng email: jinfeng.tong@alumni.ubc.ca
 Yiqun Duan email: yiqun.duan@alumni.ubc.ca
 
-If you have any questions about the databse, please feel free to contact us.
+If you have any questions about the databse or applications, please feel free to contact us.
